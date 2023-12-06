@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  background-image: url("//p6-live.byteimg.com/tos-cn-i-gjr78lqtd0/923a9e572712a19d5b8c84fa66e90bd6.png~tplv-gjr78lqtd0-image.image");
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+#portrait-player {
+  height: 100%;
+  width: 100%;
+}
